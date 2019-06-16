@@ -1,0 +1,20 @@
+
+
+#                                              50|                   72|
+# ----------------------------------------------------------------------
+# Commit message template
+# ----------------------------------------------------------------------
+# Subject line (imperative mood)               50|
+# 
+# Multi-line description of commit.                                  72|
+# May be detailed.                                                     |
+# ----------------------------------------------------------------------
+# Execute `setup.sh` to setup the project, 
+# and use this template for the local repository.
+#
+# To explicitly use this template for the local repository directory
+# execute `git config commit.template .gitmessage`.
+#
+# To configure globally (recommended)
+# execute `git config --global commit.template .gitmessage`.
+# ----------------------------------------------------------------------
